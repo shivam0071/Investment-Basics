@@ -1,0 +1,36 @@
+19th Jan 2020
+NAV - Net Assest Value
+Just like we buy shares at a certain price based on the market
+We buy Mutual Funds on NAV
+
+Lets understand this with a simple example--
+
+Suppose a fund has a total of 10k rupees to invest
+it invests 8k in 2 stocks and keep 2k in cash (for the people who wants to exit a fund)
+
+Suppose they buy
+Stock - 800 Units with 8k
+Liabilities - 2% per day...lets assume its 0 at the moment
+Invested - 500 Rs
+
+NAV =  Assets - Liabilities
+       ____________________
+
+       Total no of units(shares)
+
+
+       8000 - 0
+       _________ = 10
+        800
+
+
+So the NAV of this fund is 10
+so if you invested 500 RS in this fund then you would have gotten 500 / 10 = (50 Units)
+
+So after 1 year the..if the market was good and fund performed well
+and NAV reached 15 then your profit would be
+
+50 * 15 = 750 Rs
+
+Profit = 750 - 500  = 250 rs
+
