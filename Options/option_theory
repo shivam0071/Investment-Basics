@@ -1,0 +1,63 @@
+https://zerodha.com/varsity/chapter/call-option-basics/
+action construction
+idfc -
+ei hotels
+In India
+80% of the derivatives traded are options and rest as futures
+
+There are two types of options – The Call option and the Put option
+
+
+Example - Suppose Ajay wants to buy something from future thinking the proces will go up so
+
+Since Venu has received the advance from Ajay, 
+Venu is called the ‘agreement seller or Writer’ and Ajay is called the ‘agreement buyer’
+
+In other words since this agreement is called “an options agreement”,
+ Ajay can be called an Options Buyer and Venu the Options Seller/writer.
+
+The agreement is entered after the exchange of 1 lakh, hence 1 lakh is the price of this
+ option agreement. This is also called the “Premium” amount
+
+Every variable in the agreement – Area of the land, price and the date of sale is fixed.
+
+As a thumb rule, in an options agreement the buyer always has a right and the
+seller has an obligation(has to sell it if buyer wants it)
+
+
+CALL Options
+Assume a stock is trading at Rs.67/- today. You are given a right today to
+buy the same one month later, at say Rs. 75/-, but only if the share price on that day
+is more than Rs. 75, would you buy it?. Obviously you would, as this means to say that after 1 month even if the share is trading at 85, you can still get to buy it at Rs.75!
+
+In order to get this right you are required to pay a small amount today, say Rs.5.0/-.
+If the share price moves above Rs. 75, you can exercise your right and buy the shares at Rs. 75/-.
+If the share price stays at or below Rs. 75/- you do not exercise your right and you 
+do not need to buy the shares. All you lose is Rs. 5/- in this case. An arrangement of this
+sort is called Option Contract, a ‘Call Option’ to be precise.
+
+
+
+
+Here Rs 75 is the strike price
+. If you ever hear the line “exercise the option contract” in the context of a 
+call option, it simply means that one is claiming the right to buy the stock at the agreed strike price
+
+#  you can exercise the option only on the day of the expiry and not anytime before the expiry.
+
+Hence, assume with 15 days to expiry one buys ITC 340 Call option when ITC is 
+trading at 330 in the spot market. Further assume, after he buys the 340 call option, the stock price increases to 360 the very next day. Under such a scenario, 
+the option buyer cannot ask for a settlement (he cannot exercise) against the call option he holds. Settlement will happen only on the day of the expiry, based on the price the asset is 
+trading in the spot market on the expiry day.
+
+
+
+ #  "In fact both equity futures and option contracts expire on the last Thursday of every month"
+
+
+ PREMIUMS are very important here as the option writer/seller is profitting from it only
+To be precise there are 5 factors (similar to news and time) that tends to affect the premium
+In real markets premiums vary almost on a minute by minute basis
+Premiums are in per share and we have to buy a lot (certain amount of shares)
+Options are cash settled in India, (no need to transfer stocks..just send the profit loss money)
+
