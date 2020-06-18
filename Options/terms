@@ -1,0 +1,40 @@
+1. Strike Price - it simply means that one is claiming the right to buy the stock
+at the agreed strike price
+
+2. Call Option - Where we believe the prices will go up, call option buyer has the option to buy or not to buy on expiry
+
+3. LOT - no of shares that one has to buy in the contract
+
+4. Spot Price - The current price of the derivative
+
+5. Intrinsic Value (IV)  = spot price - strike price -- if this is +ve i will excercise the option
+
+6. P&L of call option = MAX(0, IV) - Premium Paid
+
+7. Break Even  - The losses keep getting minimized till a point where the trade neither results 
+   in a profit or a loss. This is called the breakeven point.
+   B.E = Strike Price + Premium Paid
+
+8. P&L for call option seller  = Premium – Max [0, (Spot Price – Strike Price)]
+
+9. Breakdown point for the call option seller = Strike Price + Premium Received
+
+10. Buying a call option is also referred to as ‘Long on a Call Option’ or simply ‘Long Call’
+
+11. Selling a call option is also called ‘Shorting a call option’ or simply ‘Short Call’
+
+12 . European Options – If the option type is European then it means that the option buyer
+will have to mandatory wait till the expiry date to exercise his right. The settlement is based 
+on the value of spot market on expiry day. For example if he has bought a Bajaj Auto 2050 Call 
+option, then for the buyer to be profitable Bajaj Auto has to go higher than the breakeven point 
+on the day of the expiry. Even not it the option is worthless to the buyer and he will lose all 
+the premium money that he paid to the Option seller.
+
+13. American Options – In an American Option, the option buyer can exercise his right to 
+buy the option whenever he deems appropriate during the tenure of the options expiry. 
+The settlement is dependent of the spot market at that given moment and not really depended on 
+expiry. 
+
+
+14. So all options in India are now European in nature, which means the buyer can exercise his 
+option based on the spot price on the expiry day.
