@@ -1,0 +1,29 @@
+{
+"SWING_TRADES":{
+    "MOREPENLAB": {"r1_entry_low": null, "r1_entry_high": 53, "cpr_entry": 49.6},
+    "TATAPOWER": {"r1_entry_low": null, "r1_entry_high": 460, "cpr_entry": 444},
+    "IREDA": {"r1_entry_low": 176, "r1_entry_high": 193, "cpr_entry": 170},
+    "IOB": {"r1_entry_low": null, "r1_entry_high": 70, "cpr_entry": 66.5},
+    "TI": {"r1_entry_low": null, "r1_entry_high": 248, "cpr_entry": 236},
+    "UPL": {"r1_entry_low": null, "r1_entry_high": null, "cpr_entry": 510},
+    "PENINLAND": {"r1_entry_low": 56, "r1_entry_high": null, "cpr_entry": 53},
+    "ORIENTHOT": {"r1_entry_low": 149, "r1_entry_high": null, "cpr_entry": 132},
+    "TAJGVK": {"r1_entry_low": null, "r1_entry_high": 424, "cpr_entry": 372},
+    "TRITURBINE": {"r1_entry_low": null, "r1_entry_high": null, "cpr_entry": 541},
+    "SRF": {"r1_entry_low": 2180, "r1_entry_high": null, "cpr_entry": null}
+},
+"LONG_TERM_TRADES":{
+    "TAKE": {"r1_entry_low": 20.0, "r1_entry_high": null, "cpr_entry": null},
+    "LOVABLE": {"r1_entry_low": null, "r1_entry_high": null, "cpr_entry": 123.2},
+    "IDFCFIRSTB": {"r1_entry_low": 71.1, "r1_entry_high": null, "cpr_entry": null},
+    "ABFRL": {"r1_entry_low": 225.6, "r1_entry_high": null, "cpr_entry": null},
+    "NCC": {"r1_entry_low": 206.6, "r1_entry_high": null, "cpr_entry": null},
+    "TATAMOTORS": {"r1_entry_low": 965.6, "r1_entry_high": 1040, "cpr_entry": null},
+    "ONGC": {"r1_entry_low": 270, "r1_entry_high": 292, "cpr_entry": null},
+    "TATAPOWER": {"r1_entry_low": 405, "r1_entry_high": 465, "cpr_entry": null},
+    "SHOPERSTOP": {"r1_entry_low": 630, "r1_entry_high": 809, "cpr_entry": null},
+    "MINDACORP": {"r1_entry_low": 392, "r1_entry_high": null, "cpr_entry": null},
+    "PNB": {"r1_entry_low": 120, "r1_entry_high": null, "cpr_entry": null},
+    "BHEL": {"r1_entry_low": 288, "r1_entry_high": null, "cpr_entry": 280},
+    "IRFC": {"r1_entry_low": 140, "r1_entry_high": null, "cpr_entry": null}
+}}
